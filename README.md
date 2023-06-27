@@ -12,6 +12,11 @@ The best way to get this code running quickly is to download the zip of the file
 
 If you can't run the code or would like to see the answers you can look at the `pytesting_answers.ipynb` notebook.
 
+## Want to collaborate with others?
+
+Check out [this hackpad](https://hackmd.io/@3UbYXkLuSRWoUkulK3ihvw/pytesting) for help, inspiration and sharing!
+
+
 
 ## Dataset
 
