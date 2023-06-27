@@ -7,7 +7,7 @@ The code within this repository was made for an Applications and Implications of
 
 ## How to run this code?
 
-The best way to get this code running quickly is to download the zip of the files in this repository and then upload the `Pytesting` foler to your Google Drive account to work within Google Colab. By working in Google Colab we remove the need for setting up an environment with the necessary packages.
+The best way to get this code running quickly is to download the zip of the files in this repository and then upload the `Pytesting` folder to your Google Drive account to work within Google Colab. By working in Google Colab we remove the need for setting up an environment with the necessary packages. The notebook you can work from that integrates with the other files is the `testing_workbook.ipynb`.
 
 
 ## Dataset
